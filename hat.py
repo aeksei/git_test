@@ -1,2 +1,1 @@
 """hat"""
-"incorrect line"
